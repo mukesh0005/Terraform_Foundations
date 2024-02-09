@@ -2,3 +2,4 @@ var.tf
 terraform.tfstate
 terraform.tfstate.backup
 .terraform.lock.hcl
+project/var.tf
